@@ -1,4 +1,3 @@
-Creating a README for your GitHub page is an excellent way to provide information about your project. Below is a sample README for your grid traversal game in Java:
 
 ---
 
@@ -65,10 +64,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have questions, suggestions, or feedback, please contact [Your Name](mailto:your.email@example.com).
+If you have questions, suggestions, or feedback, please contact [Hamza Patwa](mailto:patwahamza02@gmail.com).
 
 Enjoy the game!
 
 --- 
 
-In this README, you can include a brief introduction, installation instructions, how to play the game, how to contribute, licensing information, acknowledgments, and your contact information. You can also add screenshots, links to the project's repository, and any other relevant details.
+
